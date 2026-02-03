@@ -50,7 +50,7 @@
 
 
 **Резервная ссылка на PGP ключ**  
-https://drive.proton.me/urls/VBZPQH8A9C#DC19EWB4jSd8
+https://drive.proton.me/urls/GGEEK20NA0#tW9QQGYiXjWV
 
 ### Что желательно указать в отчёте
 - Описание уязвимости
